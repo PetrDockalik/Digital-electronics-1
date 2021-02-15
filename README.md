@@ -6,6 +6,8 @@ Více informací na [GitHub Tomáš Frýza](https://github.com/tomas-fryza/Digit
 
 [EDA Playground](https://www.edaplayground.com/)
 
+[Circuit app](https://circuitverse.org/simulator)
+
 [LateX Editor](https://www.codecogs.com/latex/eqneditor.php)
 
 [Manual to board](https://reference.digilentinc.com/reference/programmable-logic/nexys-a7/reference-manual)
