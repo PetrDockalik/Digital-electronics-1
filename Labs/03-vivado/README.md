@@ -14,7 +14,7 @@ More information on [GitHub Tomáš Frýza](https://github.com/tomas-fryza/Digit
 
 [Install Vivado](https://github.com/tomas-fryza/Digital-electronics-1/wiki/How-to-Install-Vivado-2020.2-on-Windows)
 
-[Creating project](https://blog.digilentinc.com/creating-and-programming-our-first-fpga-project-part-4/)
+[Creating project](https://blog.digilentinc.com/creating-and-programming-our-first-fpga-project-part-2-initial-project-creation/)
 
 ## Laboratory - Multiplexer
 
