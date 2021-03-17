@@ -8,9 +8,9 @@ More information on [GitHub Tomáš Frýza](https://github.com/tomas-fryza/Digit
 
 [WaveDrom](https://wavedrom.com/editor.html)
 
-![and_gates](Images/sch1.png)
+![and_gates](Images/sch1.PNG)
 
-![and_gates](Images/sch2.png)
+![and_gates](Images/sch2.PNG)
 
 ```javascript
 {
