@@ -196,7 +196,10 @@ end architecture testbench;
 
 ### Simulace
 
+Průběhy vypadají stejné.
+
 ![and_gates](Images/sim1.PNG)
+![and_gates](Images/wavedrom.png)
 
 ### Simulace před resetem
 
