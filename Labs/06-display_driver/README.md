@@ -196,21 +196,21 @@ end architecture testbench;
 
 ### Simulace
 
-![and_gates](Images/sim1.png)
+![and_gates](Images/sim1.PNG)
 
 ### Simulace před resetem
 
-![and_gates](Images/sim2.png)
+![and_gates](Images/sim2.PNG)
 
 ### Simulace po resetu
 
-![and_gates](Images/sim3.png)
+![and_gates](Images/sim3.PNG)
 
 ### Simulace clock_enable 4ms
 
 Jasně vidíme, že do 20ms se nám displej 5x změnil.
 
-![and_gates](Images/sim4.png)
+![and_gates](Images/sim4.PNG)
 
 ### Top.vhd
 
@@ -312,5 +312,9 @@ begin
 
 end architecture Behavioral;
 ```
+
+### 8-digit driver
+
+Raději jsem zvolil clock_enable 2ms, protože při 4ms by to už mohlo jít poznat.
 
 ![and_gates](Images/8digit.jpg)
