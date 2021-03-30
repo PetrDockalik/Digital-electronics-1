@@ -116,7 +116,7 @@ p_stimulus : process
     end process p_stimulus;
 ```
 
-![and_gates](sim_d_latch.PNG)
+![and_gates](sim_d.PNG)
 
 ### d_arst.vhd
 
@@ -397,6 +397,6 @@ p_clk_gen : process
 
 ### Shift register
 
-![and_gates](image.JPG)
+![and_gates](image.jpg)
 
 ![and_gates](sim_top.PNG)
