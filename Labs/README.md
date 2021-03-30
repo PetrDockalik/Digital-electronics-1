@@ -387,13 +387,13 @@ p_clk_gen : process
     end process p_stimulus;
 ```
 
-![and_gates](sim_d_asrt.PNG)
+![and_gates](sim_d_arst.PNG)
 
-![and_gates](sim_d_srt.PNG)
+![and_gates](sim_d_rst.PNG)
 
-![and_gates](sim_jk_srt.PNG)
+![and_gates](sim_jk_rst.PNG)
 
-![and_gates](sim_t_srt.PNG)
+![and_gates](sim_t_rst.PNG)
 
 ### Shift register
 
