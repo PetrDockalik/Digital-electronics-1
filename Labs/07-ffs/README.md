@@ -6,9 +6,9 @@ More information on [GitHub Tomáš Frýza](https://github.com/tomas-fryza/Digit
 
 ## Preparation of Laboratory
 
-![and_gates](rovnice1.PNG)
+![and_gates](Images/rovnice1.PNG)
 
-![and_gates](rovnice2.png)
+![and_gates](Images/rovnice2.png)
 
 ```LaTex
 D_{q_{n+1}} =  D\\
@@ -116,7 +116,7 @@ p_stimulus : process
     end process p_stimulus;
 ```
 
-![and_gates](sim_d_latch.PNG)
+![and_gates](Images/sim_d_latch.PNG)
 
 ### d_arst.vhd
 
@@ -387,16 +387,16 @@ p_clk_gen : process
     end process p_stimulus;
 ```
 
-![and_gates](sim_d_asrt.PNG)
+![and_gates](Images/sim_d_asrt.PNG)
 
-![and_gates](sim_d_srt.PNG)
+![and_gates](Images/sim_d_srt.PNG)
 
-![and_gates](sim_jk_srt.PNG)
+![and_gates](Images/sim_jk_srt.PNG)
 
-![and_gates](sim_t_srt.PNG)
+![and_gates](Images/sim_t_srt.PNG)
 
 ### Shift register
 
-![and_gates](image.JPG)
+![and_gates](Images/image.JPG)
 
-![and_gates](sim_top.PNG)
+![and_gates](Images/sim_top.PNG)
