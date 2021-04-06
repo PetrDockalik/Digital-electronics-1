@@ -45,7 +45,7 @@ Moore-výstupy závisí pouze na aktuálním stavu a nikoli na vstupech
 | `SOUTH_GO`   | green  | red | 4 sec |
 | `SOUTH_WAIT` | yellow | red | 2 sec |
 
-![and_gates](stav_dia.JPG)
+![and_gates](Images/stav_dia.jpg)
 
 ### tlc.vhdl
 
@@ -207,7 +207,7 @@ p_output_fsm : process(s_state)
 | `SOUTH_GO`   		| green  | red | 4 sec |
 | `SOUTH_WAIT` 		| yellow | red | 2 sec |
 
-![and_gates](Images/Smart.JPG)
+![and_gates](Images/Smart1.jpg)
 
 ```vhdl
 p_smart_traffic_fsm : process(clk)
